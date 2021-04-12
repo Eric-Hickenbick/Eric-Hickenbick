@@ -10,10 +10,10 @@
 - 😍 Atualmente sou programador Trainne em Java na <a href="https://www.foursys.com.br/">Foursys</a>
 - 📚 Estudando Java, HTML5, Node.js e React.js.
 - 🎧 Programando e sempre ouvindo Eletrônica.
-- 🎮 Gosto muito de jogar no PC, principalmente simuladores.
+- 🎮 Possuo como hobby jogar online no PC.
 
 
-### 💻 Linguagens { <br> <br>
+### 💻 Linguagens e Tecnologias { <br> <br>
 <img src= "https://img.shields.io/badge/JAVA-Developer-B22222" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/Node.js-Beginner-3c873a" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/HTML-Beginner-orange" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/Angular-Beginner-B52E31" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/Spring%20Boot-Beginner-success" alt="Eric Alessandro Rodrigues Hickenbick"/>
 ### <strong> } </strong></font>
 
