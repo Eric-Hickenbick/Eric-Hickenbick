@@ -14,7 +14,7 @@
 
 
 ### 💻 Linguagens { <br>
-<img src= "https://img.shields.io/badge/JAVA-Developer-B22222" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/Node.js-Beginner-3c873a" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/HTML-Beginner-orange" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/Angular-Beginner-B52E31" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/Spring%20Boot-Beginner-success" alt="Eric Alessandro Rodrigues Hickenbick"/> <br>
+<img src= "https://img.shields.io/badge/JAVA-Developer-B22222" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/Node.js-Beginner-3c873a" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/HTML-Beginner-orange" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/Angular-Beginner-B52E31" alt="Eric Alessandro Rodrigues Hickenbick"/> <img src= "https://img.shields.io/badge/Spring%20Boot-Beginner-success" alt="Eric Alessandro Rodrigues Hickenbick"/>
 ### <strong> } </strong></font>
 
 ### 🔍 Onde me encontrar?
